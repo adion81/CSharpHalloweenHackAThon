@@ -1,6 +1,6 @@
 Halloween Hack-a-thon
 
-1. Create 3 different heros that inherit the abstract hero class: Attack, Shield, Health.
+1. Create 3 different heroes that inherit the abstract hero class: Attack, Shield, Health.
     a. Attack type: High attack and low to mid shield and health.
     b. Shield type: High sheild and low to mid attack and health.
     c. Health type: High health and low to mid attack and shield.
